@@ -5,8 +5,8 @@ class String
   def sentence?
     if self.end_with?(".")
       true
-    elsif 
-      false
+    elsif
+      return false
     end
   end
 
@@ -14,7 +14,7 @@ class String
     if self.end_with?("?")
       true
     elsif
-      false
+      return false
     end
   end
 
