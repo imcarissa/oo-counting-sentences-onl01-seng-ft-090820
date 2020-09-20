@@ -32,7 +32,6 @@ class String
 
 
 
-binding.pry
   def count_sentences
     self.split(/[,.] /)
   end
