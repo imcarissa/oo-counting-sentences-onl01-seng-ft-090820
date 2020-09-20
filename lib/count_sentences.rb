@@ -27,7 +27,11 @@ class String
       true
     else
       flase
+    end
   end
+
+
+
 
   def count_sentences
 
