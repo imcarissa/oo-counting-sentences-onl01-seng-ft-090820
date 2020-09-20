@@ -8,6 +8,7 @@ class String
     elsif
     false
   end
+end
 
   def question?
 
