@@ -33,6 +33,6 @@ class String
 
 
   def count_sentences
-    self.split(/[,.] /)
+    sentence = self.split(/[,.] /)
   end
 end
