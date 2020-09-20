@@ -6,12 +6,16 @@ class String
     if self.end_with?(".")
       true
     elsif
-    false
+      false
+    end
   end
-end
 
   def question?
-
+    if self.end_with?("?")
+      true
+    elsif
+      false
+    end
   end
 
   def exclamation?
