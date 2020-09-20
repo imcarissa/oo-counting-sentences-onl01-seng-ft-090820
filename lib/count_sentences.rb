@@ -34,6 +34,6 @@ class String
 
 binding.pry
   def count_sentences
-
+    string.split
   end
 end
